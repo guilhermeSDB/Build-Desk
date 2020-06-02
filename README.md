@@ -1,3 +1,3 @@
 # Guilherme S de Barros
-<h1>Sobre:</h1>
+<h3>Sobre:</h3>
 Comecei na programação a 2 anos atras
